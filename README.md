@@ -9,6 +9,8 @@
 ## open Spanner 12mm and 13mm
 ## open Spanner 20mm and 22mm for need
 
+(১) পাম্প এবং ম্যাশিনের সাইটকবার খুলা যা
+
 
 <!--[profile](./w.jpeg)-->
 <img src="r2.jpeg" width="600"/>
