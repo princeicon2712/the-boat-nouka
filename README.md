@@ -1,4 +1,10 @@
+### 1"= 25.4 mm
 
+    25.4/8= 3.175 সুতা
+
+    3.175*4= 12.7 [12 থেকে ১৩ open spanner লাগবে]
+
+    
 
 ## open Spanner 12mm and 13mm
 ## open Spanner 20mm and 22mm for need
